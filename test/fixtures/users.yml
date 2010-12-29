@@ -3,9 +3,7 @@
 one:
   name: MyString
   email: MyString
-  country: MyString
 
 two:
   name: MyString
   email: MyString
-  country: MyString
